@@ -1,0 +1,21 @@
+h1{font-family:Georgia ;
+    font-size: 100px;
+    color: lawngreen ;
+    text-shadow: green 5px 5px 5px;
+    text-align:center;
+}
+h2{ font-family: 'Times New Roman';
+    font-size: 60px;
+    color: darkslategray;
+}
+h3{
+    font-family: Verdana;
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+    line-height: 40px;
+    text-indent: 20px;
+    text-shadow:rgb(34, 238, 44) 2px 2px 5px;
+}
+div{}
